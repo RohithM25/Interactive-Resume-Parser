@@ -1,0 +1,8 @@
+Ayush Mehta ->>>>> Name
+AI/ Machine Learning ->>>>> Degree
+Delhi ->>>>> Location
+20 ->>>>> Age
+Microsoft ->>>>> companies worked at
+Software Engineer ->>>>> Designation
+IIT Mumbai ->>>>> college Name
+Machine Learning, Natural Language Processing, Big Data handling ->>>>> Skills

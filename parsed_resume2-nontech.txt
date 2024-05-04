@@ -1,0 +1,8 @@
+Vijay Prakash ->>>>> Name
+None ->>>>> Degree
+Mysuru, Karnataka ->>>>> Location
+48 ->>>>> Age
+Zee TV ->>>>> companies worked at
+Singer ->>>>> Designation
+N/A ->>>>> college Name
+Carnatic, Filmi, Tamil, Kannada ->>>>> Skills

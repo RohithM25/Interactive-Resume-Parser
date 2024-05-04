@@ -1,0 +1,8 @@
+Nikhil Murugalam ->>>>> Name
+Computer Engineering ->>>>> Degree
+Kochi, Kerala ->>>>> Location
+23 ->>>>> Age
+Tata, MTR ->>>>> companies worked at
+Software Engineer ->>>>> Designation
+RV College of Engineering ->>>>> College Name
+SQL, MongoDB, Java, Spring Framework, Javascript, HTML/CSS, Communication, Empathy, Teamwork, Presentation, Working with children ->>>>> Skills

@@ -1,0 +1,9 @@
+To get API functionality, enable "Live server" VScode extension. Then there will be a button in bottom right corner to click that says "go live".
+Click that and it should open the app in your browser
+
+Full Project:
+Run the code from the .ipynb file and it will create an output text file. Then downlaod that text file and feed as input to the chat bot.
+The two pieces (parser and chatbot) were not able to be integrated in time.
+
+When using the webapp, remember to click the "choose file" button in the top left corner to select the parsed resume as a txt file.
+After a parsed resume is selected, you can know ask the chatbot questions about the candidate.
