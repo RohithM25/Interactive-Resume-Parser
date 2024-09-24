@@ -1,3 +1,7 @@
+The goal of this project is to provide a recruiter with a chatbot assistant to help them screen resumes. The web application takes in a resume, and has a chatbot feature that allows them to ask questions about it.
+
+---------------------------
+
 To get API functionality, enable "Live server" VScode extension. Then there will be a button in bottom right corner to click that says "go live".
 Click that and it should open the app in your browser
 
